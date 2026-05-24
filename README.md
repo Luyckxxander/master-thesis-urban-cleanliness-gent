@@ -2,7 +2,7 @@
 
 Python notebook used for the analyses in the MSc thesis:
 
-> *"Measuring Urban Cleanliness with GeoAI: A Comparative Spatial Analysis of AI-Based Detection in Ghent"*
+> *"From Street View to Cleanliness Index:A Comparative Analysis of AI-Based and Traditional Measurements"*
 
 The repository contains code for the following thesis chapters:
 
